@@ -17,3 +17,4 @@ Some more useful examples include:
 
 Check out the [contribution guidelines](CONTRIBUTING.md) for more information
 on contributing to this repo.
+# mlx-examples
